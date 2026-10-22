@@ -1,0 +1,5 @@
+2026-10-22 12:29:44,573 [INFO] Starting processing of data/access.log
+2026-10-22 12:29:44,603 [INFO] Statistics saved to data/stats.json
+2026-10-22 12:29:44,604 [INFO] Done. Lines: 5 (parsed: 5, skipped: 0)
+2026-10-22 12:29:44,604 [INFO] 4xx errors: 2
+2026-10-22 12:29:44,604 [INFO] Most frequent URL: /login

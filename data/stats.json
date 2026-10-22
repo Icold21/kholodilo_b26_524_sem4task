@@ -1,0 +1,22 @@
+{
+  "total_lines": 5,
+  "matched_lines": 5,
+  "bad_lines": 0,
+  "method_counts": {
+    "GET": 4,
+    "POST": 1
+  },
+  "status_counts": {
+    "200": 3,
+    "401": 1,
+    "403": 1
+  },
+  "errors_4xx": 2,
+  "url_counts": {
+    "/index.html": 1,
+    "/login": 2,
+    "/admin": 1,
+    "/api/users": 1
+  },
+  "most_common_url": "/login"
+}
